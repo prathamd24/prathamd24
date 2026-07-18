@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+AI+Engineer;GenAI+Practitioner;Full-Stack+Developer;Building+with+Gemini+API" />
 </p>
 
-<img align="left" src="Profile/profile.jpeg" width="300px" hspace="25" vspace="10"/>
+
 
 ### 👨‍💻 About Me
 

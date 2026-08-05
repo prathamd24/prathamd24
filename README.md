@@ -4,8 +4,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+AI+Engineer;GenAI+Practitioner;Full-Stack+Developer;Building+with+Gemini+API" />
 </p>
 
-
-
 ### 👨‍💻 About Me
 
 <div style="line-height: 6.2;">
@@ -15,6 +13,7 @@
 🤖 Building with Google Gemini API, OpenAI API & Prompt Engineering<br>
 🚀 Deployed College Event Hub — a production multi-college event platform<br>
 🧠 Built LLM Satisfaction Predictor — an XGBoost-based ML API with FastAPI, Docker & Firebase Auth<br>
+🤖 Built AI Career Copilot — a Gemini-powered resume/JD matching & scoring pipeline with anti-fabrication constraints<br>
 📊 Completed Deloitte & TCS GenAI data analytics job simulations<br>
 🌱 Learning RAG pipelines, LangChain & multi-agent systems (CrewAI)<br>
 💼 Mentoring juniors in Python via my college's Technical Club<br>
@@ -84,6 +83,10 @@
 
 <p align="left">
 
+<a href="https://github.com/prathamd24/ai-resume-agent" target="_blank">
+  <img src="https://img.shields.io/badge/📄_AI_Career_Copilot-6A5ACD?style=for-the-badge" />
+</a>
+
 <a href="https://github.com/prathamd24/llm-satisfaction-predictor" target="_blank">
   <img src="https://img.shields.io/badge/🤖_LLM_Satisfaction_Predictor-8A2BE2?style=for-the-badge" />
 </a>
@@ -144,7 +147,7 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/pratham-kumar-b11580329" target="_blank">
+<a href="https://www.linkedin.com/in/prathamkumar241580329" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin"
        title="LinkedIn - Connect with me professionally" />
 </a>
